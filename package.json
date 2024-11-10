@@ -1,0 +1,10 @@
+{
+  "name": "email_sever",
+  "author": "https://github.com/stepanpr",
+  "version": "1.0.0",
+  "description": "email_sever",
+  "dependencies": {
+	"nodemailer": "latest",
+	"express": "latest"
+  }
+}
